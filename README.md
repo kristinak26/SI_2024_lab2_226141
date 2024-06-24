@@ -2,5 +2,6 @@
 Кристина Каранфиловска 
 226141
 1.
-![Control Flow Graph](Screenshot 2024-06-24 182146.png)
+![Control Flow Graph](Screenshot_2024-06-24_182146.png)
+
 
