@@ -9,3 +9,4 @@
 
 3,Тест случаи според критериумот Every Branch
 ![Every Branch](https://github.com/kristinak26/SI_2024_lab2_226141/blob/master/Screenshot%202024-06-24%20181756.png?raw=true)
+4.![Multiple Condition](https://github.com/kristinak26/SI_2024_lab2_226141/blob/master/Screenshot%202024-06-24%20181756.png?raw=true)
