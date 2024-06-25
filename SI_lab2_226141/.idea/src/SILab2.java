@@ -102,4 +102,4 @@ public class SILab2 {
         }                                                                
     }
 }
-// 40
+
